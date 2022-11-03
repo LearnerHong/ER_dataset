@@ -1,0 +1,2 @@
+COL title VAL  "Full HD Wireless Day Night Network Camera"@en "DCS-2230L Full Camera | D-Link UK"@en	COL title VAL  "Full HD WDR Varifocal Day & Night Outdoor Smoked Dome Network Camera"@en "DCS-6314BS Full Camera | D-Link UK"@en	0
+COL title VAL  "Transcend TS32GCF133 32 GB CompactFlash"@en	COL title VAL  "Transcend 32GB CompactFlash Memory Card 133x (TS32GCF133)"@en-US "Accessories - Page 1531 | EISF"@en-US	1
